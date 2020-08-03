@@ -1,0 +1,4 @@
+- Passionately curious 
+- Unapologetic cat aficionado 🐱🐱🐱🐱🐱
+- Board game enthusiest ♟♠️🎲
+- Hobbyist engineer
