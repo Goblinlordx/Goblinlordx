@@ -3,11 +3,11 @@
 - Board game enthusiast ♟♠️🎲
 - Hobbyist engineer
 
-Developer of: [commit-invaders](https://goblinlordx.github.io/commit-invaders) 👾
+Developer of: [commit-invaders](https://goblinlordx.github.io/commit-invaders)
 
 ---
 
-<h3 align="center" id="commit-invaders">Commit Invaders 👾</h3>
+<h3 align="center" id="commit-invaders">👾 Commit Invaders 👾</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Goblinlordx/Goblinlordx/output/commit-invaders-dark.svg">
