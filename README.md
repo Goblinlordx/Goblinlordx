@@ -3,6 +3,8 @@
 - Board game enthusiast ♟♠️🎲
 - Hobbyist engineer
 
+Developer of: [commit-invaders](https://goblinlordx.github.io/commit-invaders) 👾
+
 ---
 
 <a href="https://github.com/Goblinlordx/commit-invaders">
